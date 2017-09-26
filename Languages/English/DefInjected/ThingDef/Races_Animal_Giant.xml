@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Megasloth.label>Megatherium</Megasloth.label>
+  <Megasloth.description>A type of ground sloth, megatheria are giant, solitary herbivores. Long extinct after being wiped out by the natives of Earth's America continent, the ground sloth was later brought back using advanced cloning and artificial gestators.</Megasloth.description>
+  <Megasloth_Leather.label>Megatherium leather</Megasloth_Leather.label>
+  <Megasloth_Leather.stuffProps.stuffAdjective>Megatherium leather</Megasloth_Leather.stuffProps.stuffAdjective>
+  <Megasloth_Meat.label>Megatherium meat</Megasloth_Meat.label>
+  <Megasloth_Corpse.label>Megatherium corpse</Megasloth_Corpse.label>
+  <Megasloth_Corpse.description>Dead body of a Megatherium.</Megasloth_Corpse.description>
+
+</LanguageData>
