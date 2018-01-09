@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <Megasloth.label>Megatherium</Megasloth.label>
-  <Megasloth.lifeStages.0.label>baby Megatherium</Megasloth.lifeStages.0.label>
-  <Megasloth.lifeStages.1.label>juvenile Megatherium</Megasloth.lifeStages.1.label>
-  <Megasloth.lifeStages.2.label>Megatherium</Megasloth.lifeStages.2.label>
+  <Megasloth.label>megatherium</Megasloth.label>
+  <Megasloth.lifeStages.0.label>baby megatherium</Megasloth.lifeStages.0.label>
+  <Megasloth.lifeStages.1.label>juvenile megatherium</Megasloth.lifeStages.1.label>
+  <Megasloth.lifeStages.2.label>megatherium</Megasloth.lifeStages.2.label>
 </LanguageData>
